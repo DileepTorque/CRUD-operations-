@@ -1,0 +1,62 @@
+{
+  "details": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": "604a",
+      "name": "dileep",
+      "email": "aiuhiuadiu@gmail.com"
+    },
+    {
+      "id": "a9b5",
+      "name": "dileep",
+      "email": "dileep517796@gmail.com"
+    },
+    {
+      "id": "1f26",
+      "name": "santhosh",
+      "email": "santhosh@bear.com"
+    },
+    {
+      "id": "90",
+      "name": "Ganensh",
+      "email": "santhosh@bear.com"
+    },
+    {
+      "id": "65",
+      "name": "subranshu",
+      "email": "pada@gmail.com"
+    },
+    {
+      "id": "0620",
+      "name": "jaswanth moula basha",
+      "email": "sutherlandd@gmail.com"
+    },
+    {
+      "id": "69",
+      "name": "nanditha",
+      "email": "nandithamadam@gmail.com"
+    }
+  ]
+}
